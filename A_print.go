@@ -1,7 +1,7 @@
 package A_print
 
 import "fmt"
-import PrintNow "github.com/deer7777/B"
+import PrintNow "github.com/deer7777/B/v2"
 
 /*func main() {
 	A_print()
