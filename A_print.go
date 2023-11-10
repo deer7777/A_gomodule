@@ -8,6 +8,7 @@ import PrintNow "github.com/deer7777/B"
 }*/
 
 func A_print() {
-	fmt.Println("version A_v2.0.0")
+	fmt.Println("==MAIN==")
+	fmt.Println("version A_v1.0.0")
 	PrintNow.PrintNow()
 }
